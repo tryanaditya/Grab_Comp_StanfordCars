@@ -16,6 +16,6 @@ python classify.py test dataset --batch-size 64 --resume saved_model/model_best.
 
 ```
 Final Result
- Model         | Accuracy  |
+| Model         | Accuracy  |
 |------------------------|---------------|
 | DLA-102                | 93.272        |
