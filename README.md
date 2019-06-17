@@ -1,7 +1,11 @@
 ## Stanford Cars Dataset Classification
 
 For more detail explanation :
-https://link.to.ppt/
+[PDF Explanation](Tryan_Aditya.pdf)
+
+General network architecture :
+![Alt text](img/arch_image.PNG?raw=true "Title")
+
 
 Train model on stanford cars dataset
 
