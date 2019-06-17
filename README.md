@@ -15,7 +15,9 @@ Test saved model on stanford cars dataset
 python classify.py test dataset --batch-size 64 --resume saved_model/model_best.pth.tar --pretrained imagenet
 
 ```
-Final Result
-| Model         | Accuracy  |
+
+Final Result :
+
+| Model                  | Accuracy      |
 |------------------------|---------------|
 | DLA-102                | 93.272        |
